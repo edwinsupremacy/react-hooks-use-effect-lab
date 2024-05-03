@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Use the `useEffect` hook with the dependencies array
+-npm  Use the `useEffect` hook with the dependencies array
 - Use a cleanup function with `useEffect` to stop background processes
 
 ## Overview
